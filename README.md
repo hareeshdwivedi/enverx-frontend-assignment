@@ -1,18 +1,23 @@
 [![N|Solid](https://iili.io/Hi9giog.png)](https://www.enverx.com/)
 
+
+
+
+https://github.com/kanon551/enver_expense_tracker/assets/88090133/caa32a97-02ca-44cc-b87e-f61cff249ac4
+
+
+
+
 EnverX offers a simple and convenient platform to fund early stage projects
 and trade future carbon credits.
 
 ## _Assginment For Frontend Developer Role_
 
 ## Instructions
-``` diff
 - Fork this repository
 - Take a fresh `pull`
-- Create a `development` branch
+- Create a `developement` branch
 - `Push` the updated code after task completion
-Note: Make sure to add proper `commit` messages
-```
 
 Note: Make sure to add proper `commit` messages.
 
